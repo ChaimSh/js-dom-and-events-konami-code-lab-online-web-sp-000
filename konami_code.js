@@ -6,5 +6,5 @@ function init() {
 
   main.addEventListener('keyDown', function(event) {
     console.log('i was keyed')
-  }) 
+  })
 }
